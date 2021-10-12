@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="troll.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="troll0000" x="0" y="0" width="800" height="800"/>
+	<SubTexture name="troll0001" x="800" y="0" width="800" height="800"/>
+	<SubTexture name="troll0002" x="1600" y="0" width="800" height="800"/>
+	<SubTexture name="troll0003" x="2400" y="0" width="800" height="800"/>
+</TextureAtlas>
